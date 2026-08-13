@@ -1,0 +1,16 @@
+{
+  "name": "Igniting Strategy",
+  "short_name": "Igniting",
+  "description": "Planificador de estrategia y simulador del FIRST Global Challenge 2026 - Igniting Innovation",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#080A12",
+  "theme_color": "#080A12",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
